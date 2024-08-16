@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyhoo27
 - 👀 I’m interested in programming, cybersecurity and surgeron (I gave up this interest).
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing CS50 😊
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: You can email me on nayhtoochun280506@gmail.com/ nayy.htoo on instagram 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy playing pool in my free time and I am kind of an introvert however once we get to know each other I turn into a total extrovert :) 
