@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nyhoo27
+- 👋 Hi, I’m Nay Htoo Chun.
 - 👀 I’m interested in programming, cybersecurity and surgeron (I gave up this interest).
-- 🌱 I’m currently studying Computer Science Year 2 at Manchester Metropolitan University.
+- 🌱 I’m currently a Computer Science Year 2 student at Manchester Metropolitan University.
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: You can email me on nayhtoochun280506@gmail.com/ nayy.htoo on instagram 
 - 😄 Pronouns: he/him
